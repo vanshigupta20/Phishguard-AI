@@ -1,0 +1,10 @@
+Subject: Congratulations! Claim Your Exclusive Reward
+From: rewards@example-prize.test
+
+Congratulations!
+
+You have won an exclusive reward. Claim your prize now by visiting the link below and providing your account details.
+
+http://claim-reward.example.test/claim
+
+This offer expires soon. Act now!

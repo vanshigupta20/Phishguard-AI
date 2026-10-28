@@ -1,0 +1,10 @@
+Subject: Final Warning - Payment Details Required
+From: billing-notice@example-billing.test
+
+Your payment could not be processed. Your account will be locked within 24 hours unless you update your payment information immediately.
+
+Please verify your billing details using:
+http://billing-update.example.test
+
+Thank you,
+Billing Support

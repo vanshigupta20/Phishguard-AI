@@ -1,0 +1,11 @@
+Subject: Monthly Sales Report Ready
+From: analytics@example.test
+
+Hello,
+
+The monthly sales report is ready for review. It includes revenue, product performance, and regional summaries.
+
+Please open the report from the company dashboard using your normal bookmark. Let me know if you would like any additional analysis.
+
+Best,
+Analytics Team

@@ -1,0 +1,11 @@
+Subject: Monthly Performance Report
+From: analytics-team@example.test
+
+Hello team,
+
+The monthly performance report is ready. It includes the latest revenue figures, customer trends, and a summary of completed work.
+
+When you have time, please review the report through the company dashboard you normally use. Feel free to send me any questions.
+
+Regards,
+Analytics Team

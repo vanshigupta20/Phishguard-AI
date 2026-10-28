@@ -1,0 +1,11 @@
+Subject: Project Status Update
+From: alex.chen@example.test
+
+Hi team,
+
+The latest project update is available in the shared workspace. The development tasks planned for this sprint are complete, and testing is continuing as scheduled.
+
+At our next check-in, we can review the remaining issues and confirm the release timeline.
+
+Thanks,
+Alex

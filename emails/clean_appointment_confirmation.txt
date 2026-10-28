@@ -1,0 +1,11 @@
+Subject: Appointment Confirmation
+From: appointments@example.test
+
+Hello,
+
+This message confirms your appointment for Tuesday at 2:30 PM.
+
+If you need to make a change, please contact the office using the phone number listed on its official website.
+
+Thank you,
+Appointments Team

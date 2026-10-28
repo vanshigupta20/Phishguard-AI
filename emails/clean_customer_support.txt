@@ -1,0 +1,11 @@
+Subject: Update on Your Support Request
+From: support@example.test
+
+Hello,
+
+We have added an update to your support request. You can check its current status by opening our official support portal through your usual bookmark.
+
+If you need further assistance, reply to this message with your ticket reference.
+
+Kind regards,
+Customer Support

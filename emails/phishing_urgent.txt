@@ -1,0 +1,11 @@
+Subject: Urgent Account Verification Required
+From: security-alert@example-mail.test
+
+Dear Customer,
+
+Your account will be suspended today due to unusual activity. Verify your password immediately using the link below to avoid losing access.
+
+http://account-verify.example.test/login
+
+Thank you,
+Account Security Team

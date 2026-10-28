@@ -1,0 +1,11 @@
+Subject: Data Privacy Training Reminder
+From: learning@example.test
+
+Hello team,
+
+A reminder that the data privacy training session starts at 11:00 AM on Tuesday. The meeting invitation is already available in your calendar.
+
+Please contact the training coordinator if you need to reschedule.
+
+Regards,
+Learning and Development

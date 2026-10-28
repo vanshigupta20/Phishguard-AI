@@ -1,0 +1,11 @@
+Subject: Agenda for Friday's Team Meeting
+From: maya.sharma@example.test
+
+Hi everyone,
+
+I've shared the agenda for Friday's team meeting in our usual team folder. We'll review the project timeline, discuss current blockers, and agree on next steps.
+
+Please add any topics you'd like to cover before Thursday afternoon.
+
+Thanks,
+Maya
