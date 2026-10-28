@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PhishGuard AI — NLP-Based Phishing Email Detector
 
 A complete educational project with a polished Streamlit dashboard, local NLP pipeline, explainable indicators, `.eml` parsing, SQLite history, CSV export, and a model evaluation page.
@@ -108,3 +109,7 @@ Replace `data/email_samples.csv` with a labeled CSV containing columns `label,te
 4. **Heuristics:** transparent phrase and URL indicators provide additional evidence.
 5. **Evaluation:** precision, recall, F1, and confusion matrix measure test-set performance.
 6. **Research extension:** evaluate separately on held-out LLM-generated and human-written messages to measure generalization.
+=======
+# Phishguard-AI
+PhishGuard AI is a machine learning-based application designed to analyze emails and identify potential phishing threats using Natural Language Processing (NLP) and security indicators. It provides an interactive dashboard that helps users assess suspicious emails, understand potential risks, and review analysis results.
+>>>>>>> 391efea1f916b6c78ecf153fa30edcfe760a02da
